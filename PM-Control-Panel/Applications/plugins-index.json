@@ -46,5 +46,26 @@
       "publishedAt": "2026-06-26T00:00:00+07:00",
       "notes": "Adds extra utility features."
     }
+    {
+      "id": "Test_InfoPlugin",
+      "fileName": "Test_InfoPlugin.dll",
+      "displayName": "Test_InfoPlugin",
+      "description": "Example downloadable plugin.",
+      "version": "1.0.0",
+      "author": "Primus",
+      "tag": "Utility",
+      "entryFormTypeName": "Test_InfoPlugin.Form1",
+      "sourceType": "Downloaded",
+      "isEnabledByDefault": true,
+      "isRequired": false,
+      "allowUninstall": true,
+      "iconFile": "https://raw.githubusercontent.com/your-org/PM-Center-Plugins/main/assets/icons/Test_InfoPlugin.png",
+      "bannerFile": "https://raw.githubusercontent.com/your-org/PM-Center-Plugins/main/assets/banners/Test_InfoPlugin.png",
+      "downloadUri": "https://github.com/pattayawat1998/PM-Control-Panel/blob/main/PM-Control-Panel/Applications/Test_InfoPlugin.dll",
+      "sha256": "C13AC8F23177B4595D8CF00E87E443CD1D0FF758991A7835A1C5DA66B0C1A6AD",
+      "minPmCenterVersion": "1.0.0",
+      "publishedAt": "2026-06-26T00:00:00+07:00",
+      "notes": "Adds extra utility features."
+    }
   ]
 }
