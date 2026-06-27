@@ -45,7 +45,7 @@
       "minPmCenterVersion": "1.0.0",
       "publishedAt": "2026-06-26T00:00:00+07:00",
       "notes": "Adds extra utility features."
-    }
+    },
     {
       "id": "Test_InfoPlugin",
       "fileName": "Test_InfoPlugin.dll",
