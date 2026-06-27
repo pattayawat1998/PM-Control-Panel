@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "catalogName": "PM Center Remote Plugin Catalog",
+  "catalogVersion": "1.0.0",
+  "generatedAt": "2026-06-26T00:00:00+07:00",
+  "plugins": [
+    {
+      "id": "pm-dashboard",
+      "fileName": "PM_Dashboard.dll",
+      "displayName": "PM Dashboard",
+      "description": "Main dashboard plugin for PM Center.",
+      "version": "1.2.0",
+      "author": "Primus",
+      "tag": "Core",
+      "entryFormTypeName": "PM_Dashboard.Form1",
+      "sourceType": "Downloaded",
+      "isEnabledByDefault": true,
+      "isRequired": true,
+      "allowUninstall": false,
+      "iconFile": "https://raw.githubusercontent.com/your-org/PM-Center-Plugins/main/assets/icons/pm-dashboard.png",
+      "bannerFile": "https://raw.githubusercontent.com/your-org/PM-Center-Plugins/main/assets/banners/pm-dashboard.png",
+      "downloadUri": "https://github.com/your-org/PM-Center-Plugins/releases/download/pm-dashboard-1.2.0/PM_Dashboard.dll",
+      "sha256": "PUT_REAL_SHA256_HERE",
+      "minPmCenterVersion": "1.0.0",
+      "publishedAt": "2026-06-26T00:00:00+07:00",
+      "notes": "Core dashboard for PM Center."
+    },
+    {
+      "id": "test-plugin-02",
+      "fileName": "Test_PlugIn_02.dll",
+      "displayName": "Test Plugin 02",
+      "description": "Example downloadable plugin.",
+      "version": "1.1.0",
+      "author": "Primus",
+      "tag": "Utility",
+      "entryFormTypeName": "Test_PlugIn_02.Form1",
+      "sourceType": "Downloaded",
+      "isEnabledByDefault": true,
+      "isRequired": false,
+      "allowUninstall": true,
+      "iconFile": "https://raw.githubusercontent.com/your-org/PM-Center-Plugins/main/assets/icons/test-plugin-02.png",
+      "bannerFile": "https://raw.githubusercontent.com/your-org/PM-Center-Plugins/main/assets/banners/test-plugin-02.png",
+      "downloadUri": "https://github.com/pattayawat1998/PM-Control-Panel/blob/main/PM-Control-Panel/Applications/Test_PlugIn_02.dll",
+      "sha256": "D2C0254A36BE2388C9301DC681087686C0E64808E5DEC8665F504ABFDA1A00B3",
+      "minPmCenterVersion": "1.0.0",
+      "publishedAt": "2026-06-26T00:00:00+07:00",
+      "notes": "Adds extra utility features."
+    }
+  ]
+}
