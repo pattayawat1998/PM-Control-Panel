@@ -30,7 +30,7 @@
       "fileName": "Test_PlugIn_02.dll",
       "displayName": "Test Plugin 02",
       "description": "Example downloadable plugin.",
-      "version": "2.0.0.0",
+      "version": "2.0.0",
       "author": "Primus",
       "tag": "Utility",
       "entryFormTypeName": "Test_PlugIn_02.Form1",
@@ -42,7 +42,7 @@
       "bannerFile": "https://raw.githubusercontent.com/pattayawat1998/PM-Control-Panel/main/PM-Control-Panel/Applications/Resources/Screenshot%202026-05-15%20230759.png",
       "downloadUri": "https://raw.githubusercontent.com/pattayawat1998/PM-Control-Panel/main/PM-Control-Panel/Applications/Test_PlugIn_02.dll",
       "sha256": "D2C0254A36BE2388C9301DC681087686C0E64808E5DEC8665F504ABFDA1A00B3",
-      "minPmCenterVersion": "1.0.0",
+      "minPmCenterVersion": "1.0.0.0",
       "publishedAt": "2026-06-26T00:00:00+07:00",
       "notes": "Adds extra utility features."
     },
