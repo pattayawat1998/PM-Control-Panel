@@ -30,7 +30,7 @@
       "fileName": "Test_PlugIn_02.dll",
       "displayName": "Test Plugin 02",
       "description": "Example downloadable plugin.",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "author": "Primus",
       "tag": "Utility",
       "entryFormTypeName": "Test_PlugIn_02.Form1",
